@@ -1,2 +1,2 @@
 # kotlinquiz
-cuestionario de preguntas relacionadas con programación
+Cuestionario de preguntas relacionadas con programación
